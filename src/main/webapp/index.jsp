@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML Backgorund Color</title>
+      <title>Tomcat application integration</title>
    </head>
-   <body style="background-color:grey;">
+   <body style="background-color:blue;">
       <h1>Products</h1>
-      <p>We have developed more than 10 products till now.</p>
+      <p>We have developed more than 50 products till now.</p>
    </body>
 </html>
