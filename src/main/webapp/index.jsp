@@ -3,8 +3,8 @@
    <head>
       <title>Tomcat application integration</title>
    </head>
-   <body style="background-color:red;">
+   <body style="background-color:yellow;">
       <h1>Products</h1>
-      <p>This is latest integration from github.</p>
+      <p>This is second integration from github.</p>
    </body>
 </html>
